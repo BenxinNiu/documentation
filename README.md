@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Welcome to Vibraneur Capstone
 
 You can use the [editor on GitHub](https://github.com/vibraneur-capstone/documentation/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## About V.A.P.E
+Vibration Analysis Prediction Engine
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Meeting minutes
+[click here to view meeting minutes](https://vibraneur-capstone.github.io/documentation/minutes)      
 
-```markdown
-Syntax highlighted code block
+## Team norms
+[click here to view team norms](https://vibraneur-capstone.github.io/documentation/team-norm)   
 
-# Header 1
-## Header 2
-### Header 3
+## Learning resources
+[click here to view learning page](https://vibraneur-capstone.github.io/documentation/learning)   
 
-- Bulleted
-- List
+## Useful links 
+> [Trello](https://trello.com/b/ui64CxlG/dev)    
+> [DevOps Pipeline](https://dev.azure.com/vibraneur/)    
+> [Vibraneur Capstone · GitHub](https://github.com/vibraneur-capstone)  
 
-1. Numbered
-2. List
+## Release Notes
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Contact
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vibraneur-capstone/documentation/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Last updated Sep 26th 2019
