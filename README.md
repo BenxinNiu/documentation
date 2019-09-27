@@ -21,10 +21,12 @@ Vibration Analysis Prediction Engine
 > [DevOps Pipeline](https://dev.azure.com/vibraneur/)    
 > [Vibraneur Capstone · GitHub](https://github.com/vibraneur-capstone)  
 
-## Release Notes
+## Release Notes   
 
 
-## Contact
+
+## Contact   
+
 
 
 ### Last updated Sep 26th 2019
