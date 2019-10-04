@@ -4,8 +4,15 @@ You can use the [editor on GitHub](https://github.com/vibraneur-capstone/documen
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+## Note
+Please Keep this documentation up to date         
+  
 ## About V.A.P.E
-Vibration Analysis Prediction Engine
+Vibration Analysis Prediction Engine      
+
+## News
+> Docker image for kafka cluster is ready will be deployed soon in Dev enivornment    
+> web interface will be deployed into Dev environment from `develop` branch (public url to be configured)     
 
 ## Meeting minutes
 [click here to view meeting minutes](https://vibraneur-capstone.github.io/documentation/minutes)      
@@ -22,11 +29,11 @@ Vibration Analysis Prediction Engine
 > [Vibraneur Capstone · GitHub](https://github.com/vibraneur-capstone)  
 
 ## Release Notes   
-
+Comming soon      
 
 
 ## Contact   
 
 
 
-### Last updated Sep 26th 2019
+### Last updated Oct 4th 2019
