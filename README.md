@@ -13,7 +13,12 @@ Vibration Analysis Prediction Engine
 
 ## News
 > Docker image for kafka cluster is ready will be deployed soon in Dev enivornment    
-> web interface will be deployed into Dev environment from `develop` branch (public url to be configured)     
+> web interface will be deployed into Dev environment from `develop` branch (public url to be configured)   
+
+## Setup Guide
+> [VAPE portal React App](https://github.com/vibraneur-capstone/WebInterface/blob/develop/README.md)      
+> [VAPE Kafka](https://github.com/vibraneur-capstone/vape-kafka-platform/blob/develop/README.md)      
+
 
 ## Meeting minutes
 [click here to view meeting minutes](https://vibraneur-capstone.github.io/documentation/minutes)      
